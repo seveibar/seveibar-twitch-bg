@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/seveibar-twitch-bg/static/css/main.70dfdf65.chunk.css",
+    "main.js": "/seveibar-twitch-bg/static/js/main.843caff2.chunk.js",
+    "main.js.map": "/seveibar-twitch-bg/static/js/main.843caff2.chunk.js.map",
+    "runtime-main.js": "/seveibar-twitch-bg/static/js/runtime-main.d8a16087.js",
+    "runtime-main.js.map": "/seveibar-twitch-bg/static/js/runtime-main.d8a16087.js.map",
+    "static/js/2.8bbfcc0c.chunk.js": "/seveibar-twitch-bg/static/js/2.8bbfcc0c.chunk.js",
+    "static/js/2.8bbfcc0c.chunk.js.map": "/seveibar-twitch-bg/static/js/2.8bbfcc0c.chunk.js.map",
+    "index.html": "/seveibar-twitch-bg/index.html",
+    "precache-manifest.d85290bd37e518e748c9993fda704d68.js": "/seveibar-twitch-bg/precache-manifest.d85290bd37e518e748c9993fda704d68.js",
+    "service-worker.js": "/seveibar-twitch-bg/service-worker.js",
+    "static/css/main.70dfdf65.chunk.css.map": "/seveibar-twitch-bg/static/css/main.70dfdf65.chunk.css.map",
+    "static/js/2.8bbfcc0c.chunk.js.LICENSE.txt": "/seveibar-twitch-bg/static/js/2.8bbfcc0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8a16087.js",
+    "static/js/2.8bbfcc0c.chunk.js",
+    "static/css/main.70dfdf65.chunk.css",
+    "static/js/main.843caff2.chunk.js"
+  ]
+}
