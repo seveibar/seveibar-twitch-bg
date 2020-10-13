@@ -22,8 +22,8 @@ function App() {
   return (
     <Container>
       {/* <BackgroundGrid /> */}
-      <TitleText />
       <SquaresBackground />
+      <TitleText />
       <SocialIcons />
       {/* <BlackBox /> */}
     </Container>

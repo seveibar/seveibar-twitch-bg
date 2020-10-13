@@ -1,7 +1,5 @@
 import React from "react"
-import TwitterIcon from "@material-ui/icons/Twitter"
 import { styled } from "@material-ui/core/styles"
-import YouTubeIcon from "@material-ui/icons/YouTube"
 import { SocialIcon } from "react-social-icons"
 import qs from "qs"
 
